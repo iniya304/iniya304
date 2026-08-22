@@ -1,141 +1,140 @@
-# 👋 Hi, I'm Iniya!
+# 👋 Hi, I'm Iniya M
 
-🎓 **B.Tech CSE (Artificial Intelligence) Student**
-🤖 Passionate about **Artificial Intelligence, Machine Learning & Deep Learning**
-💻 Building intelligent systems that solve real-world problems.
+### 💻 Computer Science & Engineering (AI) Student
 
----
+I'm a third-year CSE (AI) student with strong foundations in **Data Structures, Algorithms, Object-Oriented Design, and Software Development**.
 
-## 🧠 About Me
-
-* 🎓 Currently pursuing **B.Tech in Computer Science & Engineering (Artificial Intelligence)**
-* 🤖 Interested in **AI/ML, Deep Learning, Computer Vision & Explainable AI**
-* 🚀 Building projects that combine **AI, software and real-world applications**
-* 📚 Continuously learning and improving my skills in **Data Structures, Algorithms and AI**
-* 💡 Interested in developing practical and impactful AI solutions
+I'm interested in building **scalable backend systems, AI-powered applications, GenAI/LLM solutions, and cloud-native architectures**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
-`Python` `C` `C++` `Java` `SQL` `JavaScript`
+`Python` `Java` `C++` `C` `JavaScript` `SQL`
 
-### 🤖 AI / Machine Learning
+### 🧩 Core Computer Science
 
-`Machine Learning` `Deep Learning` `Scikit-learn` `PyTorch` `TensorFlow`
+`Data Structures & Algorithms` `Object-Oriented Design` `Database Systems` `Operating Systems` `SDLC` `CI/CD`
 
-### 🧠 AI Specializations
+### 🤖 AI & Data
 
-`Computer Vision` `Explainable AI` `Neural Networks` `CNN` `LSTM` `Autoencoders`
+`LLMs` `RAG Pipelines` `PyTorch` `Scikit-learn` `NumPy` `Pandas`
 
-### 📊 Data Science
+### 🧠 GenAI & AI Engineering
 
-`NumPy` `Pandas` `Matplotlib` `Data Preprocessing` `Data Analysis`
+`LangGraph` `Vector Databases` `FAISS` `ChromaDB`
 
-### 🌐 Web Technologies
+### ⚙️ Backend & Architecture
 
-`HTML` `CSS` `JavaScript`
-
-### 🗄️ Databases
-
-`MySQL` `SQL`
+`FastAPI` `REST APIs` `Microservices` `Streamlit`
 
 ### 🛠️ Tools & Platforms
 
-`Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab` `MATLAB`
+`Git` `GitHub` `Docker` `Linux` `Raspberry Pi`
+
+### 🗄️ Databases
+
+`MySQL` `NoSQL` `SQLite`
 
 ---
 
 ## 🎯 Areas of Interest
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🔥 Deep Learning
-* 👁️ Computer Vision
-* 🔍 Explainable AI (XAI)
-* 📊 Data Science
+* 🤖 Artificial Intelligence & GenAI
+* 🧠 LLM Applications
+* 🔎 Retrieval-Augmented Generation (RAG)
 * 💻 Software Development
+* ⚙️ Backend Engineering
+* 🏗️ Microservices & Distributed Systems
 * 🧩 Data Structures & Algorithms
-* 🚀 AI-powered Applications
+* 🗄️ Database Systems
+* ☁️ Cloud-Native Architectures
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚁 AI Drone Copilot
+### 🔍 [CodeGraph-AI](https://github.com/iniya304/codegraph-ai)
 
-An AI-powered drone assistance system designed to improve autonomous navigation and decision-making.
+A hybrid AI-powered code review and security analysis engine.
 
-**Tech:** Python • AI/ML • Computer Vision
+* Built a fault-tolerant code-review engine combining **deterministic static analysis with optional LLM enrichment**.
+* Developed **AST-based impact analysis** to calculate the blast radius of code changes using caller-callee graphs.
+* Implemented automated **pytest suite generation**.
+* Added secure sandboxed execution with **30-second timeouts and network isolation**.
+* Integrated **GitHub REST APIs** and **SARIF v2.1.0** for shift-left security.
 
-### 🔐 CodeGraph AI
-
-An intelligent software analysis tool designed to identify potential bugs and security vulnerabilities in source code.
-
-**Tech:** Python • AI • Graph Analysis
-
-### 📡 Network Anomaly Detection
-
-An anomaly detection system using **Robust PCA and ADMM-based optimization** for identifying unusual network behavior.
-
-**Tech:** Python • Machine Learning • RPCA • ADMM
-
-### 🩸 Explainable AI for Anemia Prediction
-
-A machine learning system for anemia prediction with model interpretability using **SHAP and LIME**.
-
-**Tech:** Python • Scikit-learn • SHAP • LIME
-
-### 🧬 Therapeutic Peptide Classification
-
-A machine learning-based classification system for identifying therapeutic peptide sequences.
-
-**Tech:** MATLAB • Machine Learning • SVM • Decision Trees • kNN • ANN
-
-### 🦯 Smart Assistive Cane
-
-An IoT-based assistive system combining obstacle detection, GPS and communication features.
-
-**Tech:** Arduino • Sensors • GPS • GSM • Embedded Systems
+**Tech:** Python • AST • LLMs • GitHub REST API • SARIF • Static Analysis
 
 ---
 
-## 📚 Currently Learning
+### 🤖 [Self-Healing Code Agent](https://github.com/iniya304/self-healing-code-agent)
 
-* Advanced Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Data Structures & Algorithms
-* AI System Development
+An autonomous code-generation system capable of generating, executing and automatically patching code.
 
----
+* Developed a **LangGraph state-machine** for a deterministic generation → execution → error-patching loop.
+* Designed an isolated sandbox for executing **LLM-generated scripts**.
+* Captured stack traces and routed failures to **Groq API** for automated self-healing.
+* Built a **Streamlit frontend** with real-time logs, syntax highlighting and workflow visualization.
 
-## 🏆 Achievements & Certifications
-
-* 🏅 **AI ML Mastery** — Unstop
-* 📚 **C++ & Data Structures and Algorithms** — Unstop
-* 🚀 Participating in AI/ML hackathons and technical projects
+**Tech:** Python • LangGraph • LLMs • Streamlit • Groq API
 
 ---
 
-## 📈 What I'm Working Towards
+### 💰 [AI-Powered Expense Tracker](https://github.com/iniya304/ai-expense-tracker)
 
-Building **production-oriented AI systems** and strengthening my skills in:
+A full-stack AI application that extracts and searches financial information from receipt images.
 
-`AI/ML` → `Deep Learning` → `Computer Vision` → `AI Engineering`→ `software engineering`
+* Built using **FastAPI, SQLite and Streamlit**.
+* Implemented receipt data extraction using **OCR with OpenCV and Tesseract**.
+* Benchmarked the OCR pipeline on **600+ SROIE2019 images**.
+* Achieved **93% date accuracy and 87% amount accuracy**.
+* Integrated **FAISS/ChromaDB** and sentence-transformers for semantic search.
+* Added a natural-language query interface for expense information.
+
+**Tech:** Python • FastAPI • SQLite • Streamlit • OpenCV • Tesseract • FAISS • ChromaDB
 
 ---
 
-## 🤝 Let's Connect
+## 🏆 Certifications & Achievements
 
-I'm always interested in collaborating on **AI/ML projects, hackathons and innovative software solutions.**
+### 📚 C++ Data Structures & Algorithms
 
-📧 **Email:** iniya.ms@gmail.com
-💼 **LinkedIn:** [Your LinkedIn]
+Completed intensive coursework covering:
 
+`Arrays` • `Trees` • `Graphs` • `Dynamic Programming` • `Complexity Analysis` • `Competitive Programming`
+
+### 🤖 AI/ML Mastery
+
+Completed training focused on:
+
+`Machine Learning Algorithms` • `Model Deployment` • `Practical AI Applications`
+
+---
+
+## 🌱 Currently Focused On
+
+Building reliable and practical systems at the intersection of:
+
+**Software Engineering + AI + GenAI + Backend Systems**
+
+---
+
+## 🤝 Leadership & Community
+
+**NSS Volunteer — Amrita Vishwa Vidyapeetham, Coimbatore**
+
+Participated in community-service projects, awareness programs, cleanliness drives and volunteer activities.
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [iniya.ms@gmail.com](mailto:iniya.ms@gmail.com)
+
+🔗 **GitHub:** [github.com/iniya304](https://github.com/iniya304)
 
 ---
 
