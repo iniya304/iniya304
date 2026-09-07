@@ -134,8 +134,6 @@ Participated in community-service projects, awareness programs, cleanliness driv
 
 📧 **Email:** [iniya.ms@gmail.com](mailto:iniya.ms@gmail.com)
 
-🔗 **GitHub:** [github.com/iniya304](https://github.com/iniya304)
-
 ---
 
 ⭐ *Thanks for visiting my profile!*
