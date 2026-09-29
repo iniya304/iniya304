@@ -1,180 +1,263 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,50:F7A8C4,100:E294B0&height=200&section=header&text=Iniya%20M&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20CSE%20(AI)%20Student&descAlignY=62&descSize=16&fontColor=fff5f8" width="100%"/>
+# Hi, I'm Iniya M 👋
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Software+Developer+%7C+AI%2FML+Engineer;Building+scalable+backend+systems+%26+intelligent+products;GenAI+%C2%B7+RAG+%C2%B7+LangGraph+%C2%B7+Full-Stack;Precision+in+code%2C+elegance+in+design&font=Georgia&center=true&width=650&height=40&color=D6739D&vCenter=true&size=19&pause=1400"/>
+### AI/ML Engineer · Software Developer · CSE (AI) Student
 
-</div>
+Building **intelligent, reliable, and production-oriented software** across AI/ML, backend systems, agentic AI, and cloud engineering.
 
-<br/>
-
-## ⋆｡‍🌸 About Me
-
-I'm a third-year **CSE (AI)** student with a strong foundation in Data Structures, Algorithms, Object-Oriented Design, and Software Development. I enjoy working across the stack — from backend systems and APIs to the AI/ML layer that powers them — and turning ideas into **reliable, production-shaped software**.
-
-- 💻 Solid fundamentals in **DSA, OOD, databases, and system design**
-- 🩷 Experience building **full-stack applications, REST APIs, and microservices**
-- 🕊️ Also skilled in **AI/ML, GenAI, LangGraph workflows, and RAG pipelines**
-- 🌷 Comfortable owning a project end-to-end — from architecture to deployment
-- 🤍 Believe good engineering is equal parts logic and craftsmanship
-
-<br/>
-
-## ✧ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-FADDE1?style=for-the-badge&logo=python&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/Java-FADDE1?style=for-the-badge&logo=openjdk&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/C++-FADDE1?style=for-the-badge&logo=cplusplus&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/JavaScript-FADDE1?style=for-the-badge&logo=javascript&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/SQL-FADDE1?style=for-the-badge&logo=mysql&logoColor=8A5A6E"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FastAPI-F2B6CE?style=for-the-badge&logo=fastapi&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/Streamlit-F2B6CE?style=for-the-badge&logo=streamlit&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/Docker-F2B6CE?style=for-the-badge&logo=docker&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/Git-F2B6CE?style=for-the-badge&logo=git&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/Linux-F2B6CE?style=for-the-badge&logo=linux&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/MySQL-F2B6CE?style=for-the-badge&logo=mysql&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/SQLite-F2B6CE?style=for-the-badge&logo=sqlite&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/REST_APIs-F2B6CE?style=for-the-badge&logoColor=6B3A4E"/>
-<img src="https://img.shields.io/badge/Microservices-F2B6CE?style=for-the-badge&logoColor=6B3A4E"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/PyTorch-F7C9DC?style=for-the-badge&logo=pytorch&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7C9DC?style=for-the-badge&logo=scikitlearn&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/LangGraph-F7C9DC?style=for-the-badge&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-F7C9DC?style=for-the-badge&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/FAISS-F7C9DC?style=for-the-badge&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/ChromaDB-F7C9DC?style=for-the-badge&logoColor=8A5A6E"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/MySQL-FADDE1?style=for-the-badge&logo=mysql&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/SQLite-FADDE1?style=for-the-badge&logo=sqlite&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/NoSQL-FADDE1?style=for-the-badge&logo=mongodb&logoColor=8A5A6E"/>
-
-</div>
-
-<br/>
-
-## ✧ Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**💳 [AgentReady](https://github.com/iniya304/AgentReady)** — *Razorpay AI Buildathon 2026*
-<br/>Full-stack payment-recovery platform: Next.js frontend, FastAPI backend, Supabase DB, ML-driven decisioning.
-- Designed the end-to-end system architecture — prediction → policy engine → bounded workflow → audit trail
-- Built REST APIs and a rules-based policy layer to safely gate automated financial actions
-- Integrated the Razorpay Payment Links SDK and a PostgreSQL data layer
-- 78.1% model accuracy · 94.5% recall · 89.7% PR-AUC (5-fold CV)
-
-`FastAPI` `Next.js` `Supabase` `scikit-learn` `Razorpay SDK`
-
-</td>
-<td width="50%" valign="top">
-
-**🔍 [CodeGraph-AI](https://github.com/iniya304/codegraph-ai)**
-<br/>Hybrid code review & security analysis engine.
-- Fault-tolerant engine combining static analysis with optional LLM enrichment
-- AST-based impact analysis via caller–callee graphs
-- Automated pytest suite generation, sandboxed execution (30s timeout)
-- GitHub REST API + SARIF v2.1.0 integration for shift-left security
-
-`Python` `AST` `GitHub REST API` `SARIF`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💰 [AI-Powered Expense Tracker](https://github.com/iniya304/ai-expense-tracker)**
-<br/>Full-stack app extracting & searching financial data from receipts.
-- Backend built with FastAPI + SQLite, OCR pipeline with OpenCV + Tesseract
-- Benchmarked on 600+ images — 93% date accuracy · 87% amount accuracy
-- FAISS/ChromaDB semantic search with a natural-language query interface
-
-`FastAPI` `SQLite` `OpenCV` `FAISS`
-
-</td>
-<td width="50%" valign="top">
-
-**🤖 [Self-Healing Code Agent](https://github.com/iniya304/self-healing-code-agent)**
-<br/>Autonomous system that generates, executes, and patches its own code.
-- LangGraph state machine — generate → execute → patch loop
-- Isolated sandbox for LLM-generated scripts
-- Streamlit frontend with live logs & workflow visualization
-
-`Python` `LangGraph` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**🌷 More in progress**
-<br/>New builds spanning backend systems, full-stack apps, and AI-driven products are always underway — explore my [pinned repositories](https://github.com/iniya304?tab=repositories) for the latest.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## ✧ Live Contributions
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iniya304&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent&bg_color=FFF7FA&title_color=D6739D&icon_color=E294B0&text_color=6B3A4E&border_color=F7C9DC" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iniya304&hide_border=true&theme=transparent&background=FFF7FA&ring=E294B0&fire=D6739D&currStreakLabel=D6739D&sideLabels=6B3A4E&currStreakNum=6B3A4E&sideNums=6B3A4E&dates=B98499" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iniya304&hide_border=true&bg_color=FFF7FA&color=6B3A4E&line=E294B0&point=D6739D&area=true&area_color=F7C9DC" width="100%"/>
-
-</div>
-
-<br/>
-
-## ✧ Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B%20Data%20Structures%20%26%20Algorithms-FADDE1?style=for-the-badge&logoColor=8A5A6E"/>
-<img src="https://img.shields.io/badge/AI%2FML%20Mastery-FADDE1?style=for-the-badge&logoColor=8A5A6E"/>
-
-</div>
-
-<br/>
-
-## ✧ Community
-
-> 🕊️ **NSS Volunteer** — Amrita Vishwa Vidyapeetham, Coimbatore
-> Community-service projects, awareness programs, and volunteer activities.
-
-<br/>
-
-## ✧ Get in Touch
-
-<div align="center">
-
-<a href="mailto:iniya.ms@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F2B6CE?style=for-the-badge&logo=gmail&logoColor=6B3A4E"/>
-</a>
 <a href="https://github.com/iniya304">
-  <img src="https://img.shields.io/badge/GitHub-F2B6CE?style=for-the-badge&logo=github&logoColor=6B3A4E"/>
+<img src="https://img.shields.io/badge/GitHub-iniya304-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-F2B6CE?style=for-the-badge&logo=linkedin&logoColor=6B3A4E"/>
+<a href="mailto:iniyamurugan07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E294B0,50:F7A8C4,100:FFD1DC&height=100&section=footer" width="100%"/>
+---
 
-*thank you for stopping by* 🩷
+## About Me
+
+I'm a **third-year Computer Science student specializing in Artificial Intelligence**, interested in building systems that go beyond simple demos.
+
+My work spans:
+
+* 🤖 **AI / Machine Learning** — Deep Learning, Computer Vision, NLP, Explainable AI
+* 🧠 **Agentic AI** — LangGraph, RAG, tool-based workflows, autonomous systems
+* ⚙️ **Backend Engineering** — FastAPI, REST APIs, databases, system architecture
+* ☁️ **Cloud & DevOps** — Azure, Docker, Linux, cloud-native architectures
+* 🔐 **Reliable & Secure AI** — adversarial testing, reliability detection, security analysis
+* 💻 **Software Engineering** — DSA, OOP, Git, testing, API design
+
+I enjoy taking an idea from **problem → architecture → implementation → evaluation → deployment**.
+
+---
+
+## What I'm Building
+
+### 🛡️ MediShield — Reliable Medical AI
+
+A research prototype exploring whether a medical vision model can recognize when its own predictions become unreliable.
+
+**Pipeline:**
+
+`Medical Image → CNN → Reliability Analysis → XGBoost → Accept / Abstain → Explain`
+
+Explores:
+
+* CNN-based medical image classification
+* Adversarial attacks such as FGSM and PGD
+* Robustness testing with image perturbations
+* XGBoost-based reliability detection
+* Selective prediction / abstention
+* Grad-CAM explainability
+
+**Stack:** `PyTorch` `EfficientNet` `ResNet` `XGBoost` `Grad-CAM` `Streamlit`
+
+[View MediShield →](https://github.com/iniya304/MediShield)
+
+---
+
+### 🤖 AgentReady — AI-Powered Payment Recovery
+
+A full-stack system designed around **bounded AI decision-making for payment recovery workflows**.
+
+The architecture separates prediction from policy and execution:
+
+`Prediction → Policy Engine → Bounded Action → Audit Trail`
+
+Includes:
+
+* FastAPI backend
+* Next.js frontend
+* Supabase/PostgreSQL
+* ML-based decisioning
+* Payment workflow integration
+* Auditable automated actions
+
+**Stack:** `Python` `FastAPI` `Next.js` `Supabase` `scikit-learn`
+
+[View AgentReady →](https://github.com/iniya304/AgentReady)
+
+---
+
+### 🔍 CodeGraph-AI — Intelligent Code Analysis
+
+A hybrid code-review and security-analysis engine combining traditional static analysis with optional LLM assistance.
+
+Features include:
+
+* AST-based code analysis
+* Caller–callee impact graphs
+* Automated test generation
+* Sandboxed code execution
+* GitHub API integration
+* SARIF security-report generation
+
+**Stack:** `Python` `AST` `GitHub REST API` `SARIF`
+
+[View CodeGraph-AI →](https://github.com/iniya304/codegraph-ai)
+
+---
+
+### 🧑‍🏫 Adaptive Tutoring System
+
+A conversational tutoring system combining probabilistic reasoning, sequential modeling, reinforcement learning, and generative AI.
+
+Architecture:
+
+`Student → Gemini → Bayesian Network → HMM → Q-Learning → Adaptive Feedback`
+
+Uses:
+
+* Bayesian Networks
+* Hidden Markov Models
+* Tabular Q-learning
+* Dynamic question generation
+* Learner-feedback-driven adaptation
+* Streamlit conversational interface
+
+**Stack:** `Python` `pgmpy` `hmmlearn` `Gemini` `Streamlit`
+
+[View project →](https://github.com/iniya304/adaptive-tutoring-chatstyle)
+
+---
+
+## Other Projects
+
+| Project                     | What it explores                                                                | Technologies                            |
+| --------------------------- | ------------------------------------------------------------------------------- | --------------------------------------- |
+| **Self-Healing Code Agent** | AI-generated code execution and automatic error repair                          | `LangGraph` `Groq` `Python` `Streamlit` |
+| **AI Expense Tracker**      | OCR, receipt understanding and semantic search                                  | `OpenCV` `Tesseract` `FastAPI` `FAISS`  |
+| **GigTrust**                | Freelance marketplace with authentication, cloud databases and backend services | `FastAPI` `Azure` `SQL` `Cosmos DB`     |
+| **Dayflow HRMS**            | Full-stack enterprise HR management system                                      | `React` `Vite` `Supabase`               |
+| **AI Drone Copilot**        | AI-assisted drone simulation and autonomous systems                             | `ArduPilot` `SITL` `Python`             |
+
+---
+
+## Technical Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+### AI / ML
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square\&logo=xgboost\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square)
+
+### Backend / Databases
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+
+### Cloud / Tools
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+---
+
+## Engineering Interests
+
+I'm particularly interested in:
+
+```text
+Artificial Intelligence
+├── Generative AI
+├── Agentic Systems
+├── Computer Vision
+├── Explainable AI
+├── Reliable / Trustworthy ML
+└── RAG Systems
+
+Software Engineering
+├── Backend Architecture
+├── Distributed Systems
+├── APIs & Microservices
+├── Databases
+└── Cloud Engineering
+
+Intelligent Systems
+├── Autonomous Agents
+├── AI Safety & Reliability
+├── Security Analysis
+└── Human-in-the-Loop Systems
+```
+
+---
+
+## Current Focus
+
+🔭 Building **AI-powered full-stack systems**
+
+🧠 Exploring **agentic AI, RAG, and reliable ML**
+
+☁️ Learning deeper **cloud architecture and DevOps**
+
+🔐 Exploring **AI security and trustworthy automation**
+
+📚 Strengthening **DSA, system design, and software engineering fundamentals**
+
+---
+
+## Certifications & Community
+
+* **AI/ML Mastery** — Unstop
+* **C++ Data Structures & Algorithms** — Unstop
+* **NSS Volunteer** — Amrita Vishwa Vidyapeetham
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=iniya304&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iniya304&hide_border=true&theme=transparent" width="48%"/>
+
+</div>
+
+---
+
+## Let's Connect
+
+I'm always interested in collaborating on **AI/ML, agentic systems, backend engineering, cloud projects, and research-oriented software**.
+
+<div align="center">
+
+<a href="https://github.com/iniya304">
+<img src="https://img.shields.io/badge/GitHub-iniya304-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:iniyamurugan07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Build. Learn. Experiment. Repeat.
 
 </div>
