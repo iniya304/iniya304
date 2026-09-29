@@ -1,138 +1,150 @@
 <div align="center">
 
-# Hi, I'm Iniya M 👋
+# Iniya M
 
-### AI/ML Engineer · Software Developer · CSE (AI) Student
+### AI/ML Engineer · Software Developer · CSE (AI)
 
-Building **intelligent, reliable, and production-oriented software** across AI/ML, backend systems, agentic AI, and cloud engineering.
+I build **AI-powered software systems** combining machine learning, backend engineering, intelligent automation, and real-world applications.
 
-<a href="https://github.com/iniya304">
-<img src="https://img.shields.io/badge/GitHub-iniya304-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:iniyamurugan07@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[GitHub](https://github.com/iniya304)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm a **third-year Computer Science student specializing in Artificial Intelligence**, interested in building systems that go beyond simple demos.
+I'm a third-year **Computer Science Engineering (AI)** student interested in building intelligent systems end to end — from machine learning models and evaluation to APIs, databases, automation, and user-facing applications.
 
-My work spans:
+* **AI/ML:** Deep Learning, Computer Vision, Classical ML, Model Evaluation
+* **GenAI:** LLM Applications, RAG, LangGraph, Agentic AI
+* **Software:** Python, C++, Java, JavaScript, SQL
+* **Backend & Data:** FastAPI, REST APIs, PostgreSQL, Supabase, SQLite, MongoDB, Vector Databases
+* **Engineering:** Git, GitHub, Docker, Linux, Jupyter, Cloud Development
 
-* 🤖 **AI / Machine Learning** — Deep Learning, Computer Vision, NLP, Explainable AI
-* 🧠 **Agentic AI** — LangGraph, RAG, tool-based workflows, autonomous systems
-* ⚙️ **Backend Engineering** — FastAPI, REST APIs, databases, system architecture
-* ☁️ **Cloud & DevOps** — Azure, Docker, Linux, cloud-native architectures
-* 🔐 **Reliable & Secure AI** — adversarial testing, reliability detection, security analysis
-* 💻 **Software Engineering** — DSA, OOP, Git, testing, API design
-
-I enjoy taking an idea from **problem → architecture → implementation → evaluation → deployment**.
+I focus on building the **system around the model** — including data pipelines, evaluation, reliability, APIs, decision logic, automation, and deployment.
 
 ---
 
-## What I'm Building
+## Featured Projects
 
-### 🛡️ MediShield — Reliable Medical AI
+### 🛡️ [MediShield](https://github.com/iniya304/MediShield)
 
-A research prototype exploring whether a medical vision model can recognize when its own predictions become unreliable.
+**AI reliability and safety layer for medical vision models**
 
-**Pipeline:**
+A research-oriented medical computer vision system designed to evaluate model reliability under adversarial and distribution-shift conditions.
 
-`Medical Image → CNN → Reliability Analysis → XGBoost → Accept / Abstain → Explain`
+* Medical image classification using deep learning
+* **FGSM and PGD** adversarial testing
+* Robustness evaluation using noise, blur, brightness, and compression perturbations
+* **XGBoost-based reliability detection**
+* Prediction **abstention** for potentially unreliable cases
+* **Grad-CAM** visual explanations
+* Streamlit-based interface
 
-Explores:
+**Python · PyTorch · Computer Vision · XGBoost · Grad-CAM · Streamlit**
 
-* CNN-based medical image classification
-* Adversarial attacks such as FGSM and PGD
-* Robustness testing with image perturbations
-* XGBoost-based reliability detection
-* Selective prediction / abstention
-* Grad-CAM explainability
-
-**Stack:** `PyTorch` `EfficientNet` `ResNet` `XGBoost` `Grad-CAM` `Streamlit`
-
-[View MediShield →](https://github.com/iniya304/MediShield)
+> Research prototype — not a clinical diagnostic system.
 
 ---
 
-### 🤖 AgentReady — AI-Powered Payment Recovery
+### 💳 [AgentReady](https://github.com/iniya304/AgentReady)
 
-A full-stack system designed around **bounded AI decision-making for payment recovery workflows**.
+**AI-assisted payment recovery platform**
 
-The architecture separates prediction from policy and execution:
+A full-stack application combining machine learning decisioning, payment workflows, and automated recovery logic.
 
-`Prediction → Policy Engine → Bounded Action → Audit Trail`
-
-Includes:
-
-* FastAPI backend
 * Next.js frontend
-* Supabase/PostgreSQL
+* FastAPI backend
+* Supabase/PostgreSQL data layer
 * ML-based decisioning
-* Payment workflow integration
-* Auditable automated actions
+* Automated payment-recovery workflows
+* Razorpay integration
 
-**Stack:** `Python` `FastAPI` `Next.js` `Supabase` `scikit-learn`
-
-[View AgentReady →](https://github.com/iniya304/AgentReady)
+**Next.js · FastAPI · Supabase · PostgreSQL · Machine Learning · Razorpay**
 
 ---
 
-### 🔍 CodeGraph-AI — Intelligent Code Analysis
+### 🔍 [CodeGraph-AI](https://github.com/iniya304/codegraph-ai)
 
-A hybrid code-review and security-analysis engine combining traditional static analysis with optional LLM assistance.
+**AI-assisted code review and security analysis**
 
-Features include:
+A developer-focused system combining deterministic code analysis with AI-assisted workflows.
 
-* AST-based code analysis
-* Caller–callee impact graphs
-* Automated test generation
+* AST-based **caller–callee analysis**
+* Code impact analysis
+* Automated pytest generation
 * Sandboxed code execution
 * GitHub API integration
-* SARIF security-report generation
+* **SARIF 2.1.0** security-report generation
 
-**Stack:** `Python` `AST` `GitHub REST API` `SARIF`
-
-[View CodeGraph-AI →](https://github.com/iniya304/codegraph-ai)
+**Python · AST · GitHub API · SARIF · LLMs · Software Security**
 
 ---
 
-### 🧑‍🏫 Adaptive Tutoring System
+### 🧠 [Self-Healing Code Agent](https://github.com/iniya304/self-healing-code-agent)
 
-A conversational tutoring system combining probabilistic reasoning, sequential modeling, reinforcement learning, and generative AI.
+**Agentic AI system for automated code generation and repair**
 
-Architecture:
+An agent workflow that iteratively generates code, executes it, detects failures, and attempts repairs.
 
-`Student → Gemini → Bayesian Network → HMM → Q-Learning → Adaptive Feedback`
+* Generate → Execute → Analyze → Repair workflow
+* **LangGraph** orchestration
+* LLM-powered code generation
+* Automated execution and feedback loop
+* Streamlit interface
 
-Uses:
-
-* Bayesian Networks
-* Hidden Markov Models
-* Tabular Q-learning
-* Dynamic question generation
-* Learner-feedback-driven adaptation
-* Streamlit conversational interface
-
-**Stack:** `Python` `pgmpy` `hmmlearn` `Gemini` `Streamlit`
-
-[View project →](https://github.com/iniya304/adaptive-tutoring-chatstyle)
+**Python · LangGraph · LLMs · Groq · Streamlit · Agentic AI**
 
 ---
 
-## Other Projects
+### 🚁 [AI Drone Copilot](https://github.com/iniya304/CD6_AI-drone-copilot)
 
-| Project                     | What it explores                                                                | Technologies                            |
-| --------------------------- | ------------------------------------------------------------------------------- | --------------------------------------- |
-| **Self-Healing Code Agent** | AI-generated code execution and automatic error repair                          | `LangGraph` `Groq` `Python` `Streamlit` |
-| **AI Expense Tracker**      | OCR, receipt understanding and semantic search                                  | `OpenCV` `Tesseract` `FastAPI` `FAISS`  |
-| **GigTrust**                | Freelance marketplace with authentication, cloud databases and backend services | `FastAPI` `Azure` `SQL` `Cosmos DB`     |
-| **Dayflow HRMS**            | Full-stack enterprise HR management system                                      | `React` `Vite` `Supabase`               |
-| **AI Drone Copilot**        | AI-assisted drone simulation and autonomous systems                             | `ArduPilot` `SITL` `Python`             |
+**AI-assisted drone control and simulation**
+
+An AI-oriented drone project built around the **ArduPilot** ecosystem and Software-in-the-Loop simulation.
+
+* ArduPilot integration
+* **SITL** simulation
+* Python-based experimentation
+* AI-assisted drone workflows
+* Trajectory and control experimentation
+
+**Python · ArduPilot · SITL · AI · Autonomous Systems**
+
+---
+
+### 🏢 [Dayflow HRMS](https://github.com/iniya304/ODOO_NMIT_Hackathon_GirlsDayOut)
+
+**Full-stack Human Resource Management System**
+
+A web-based HR management platform covering employee and organizational workflows.
+
+* React-based frontend
+* Vite development environment
+* Supabase authentication and database
+* PostgreSQL with Row Level Security
+* Role-oriented HR workflows
+* Dashboard visualizations
+
+**React · Vite · Supabase · PostgreSQL · Tailwind CSS · Recharts**
+
+---
+
+### 🧾 [AI Expense Tracker](https://github.com/iniya304/ai-expense-tracker)
+
+**AI-powered expense tracking with receipt processing**
+
+An application that extracts information from receipts and provides structured expense management and search capabilities.
+
+* Receipt image processing
+* **OpenCV + Tesseract OCR**
+* FastAPI backend
+* SQLite database
+* Semantic expense search
+* Vector-search experimentation with FAISS/ChromaDB
+
+**Python · FastAPI · OpenCV · Tesseract · SQLite · FAISS · ChromaDB**
 
 ---
 
@@ -140,81 +152,57 @@ Uses:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+**Python · C · C++ · Java · JavaScript · SQL**
 
 ### AI / ML
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square\&logo=xgboost\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-6C5CE7?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-4285F4?style=flat-square)
+**PyTorch · scikit-learn · XGBoost · Computer Vision · NLP · Generative AI · RAG · LangGraph**
 
-### Backend / Databases
+### Backend & Data
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+**FastAPI · REST APIs · PostgreSQL · Supabase · SQLite · MongoDB · FAISS · ChromaDB**
 
-### Cloud / Tools
+### Frontend
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+**React · Next.js · JavaScript · Vite · Tailwind CSS**
+
+### Tools & Platforms
+
+**Git · GitHub · Docker · Linux · Jupyter · Streamlit · Azure · ArduPilot**
 
 ---
 
-## Engineering Interests
+## What I Build
 
-I'm particularly interested in:
+**AI & Machine Learning**
 
-```text
-Artificial Intelligence
-├── Generative AI
-├── Agentic Systems
-├── Computer Vision
-├── Explainable AI
-├── Reliable / Trustworthy ML
-└── RAG Systems
+→ Computer Vision · Deep Learning · Model Reliability · Intelligent Decision Systems
 
-Software Engineering
-├── Backend Architecture
-├── Distributed Systems
-├── APIs & Microservices
-├── Databases
-└── Cloud Engineering
+**Generative & Agentic AI**
 
-Intelligent Systems
-├── Autonomous Agents
-├── AI Safety & Reliability
-├── Security Analysis
-└── Human-in-the-Loop Systems
-```
+→ LLM Applications · RAG · LangGraph · AI Agents · Automated Code Workflows
+
+**Developer Tools**
+
+→ Code Analysis · Security Tooling · Static Analysis · AI-assisted Development
+
+**Software Systems**
+
+→ REST APIs · Databases · Full-Stack Applications · Automation
+
+**Autonomous Systems**
+
+→ Drone Simulation · AI-assisted Control · ArduPilot · SITL
 
 ---
 
-## Current Focus
+## Engineering Approach
 
-🔭 Building **AI-powered full-stack systems**
+I approach projects as complete systems rather than isolated models:
 
-🧠 Exploring **agentic AI, RAG, and reliable ML**
+**Problem → Architecture → Implementation → Evaluation → Reliability → Deployment**
 
-☁️ Learning deeper **cloud architecture and DevOps**
-
-🔐 Exploring **AI security and trustworthy automation**
-
-📚 Strengthening **DSA, system design, and software engineering fundamentals**
+The goal is to build software where the AI component works together with the surrounding engineering system.
 
 ---
 
@@ -226,38 +214,21 @@ Intelligent Systems
 
 ---
 
-## GitHub Activity
+## Currently Exploring
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=iniya304&show_icons=true&hide_border=true&theme=transparent" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iniya304&hide_border=true&theme=transparent" width="48%"/>
-
-</div>
+* Reliable and trustworthy AI systems
+* Agentic AI and LLM applications
+* AI-assisted developer tools
+* Computer vision
+* Cloud and backend engineering
+* Autonomous systems
 
 ---
 
-## Let's Connect
-
-I'm always interested in collaborating on **AI/ML, agentic systems, backend engineering, cloud projects, and research-oriented software**.
-
 <div align="center">
 
-<a href="https://github.com/iniya304">
-<img src="https://img.shields.io/badge/GitHub-iniya304-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### Building AI systems that solve real engineering problems.
 
-<a href="mailto:iniyamurugan07@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Build. Learn. Experiment. Repeat.
+[![GitHub](https://img.shields.io/badge/GitHub-iniya304-181717?style=for-the-badge\&logo=github)](https://github.com/iniya304)
 
 </div>
